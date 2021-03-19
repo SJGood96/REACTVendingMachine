@@ -1,0 +1,25 @@
+.itemId{
+    text-align: left; 
+    margin-top: 30 px;
+    width: "30%";
+
+}
+
+.itemName{
+    text-align: center; 
+    margin-top: 30 px;
+    width: "30%";
+}
+
+.itemPrice{
+    text-align: center; 
+    margin-top: 30 px;
+    width: "30%";
+}
+
+.itemQuantity{
+    text-align: center; 
+    margin-top: 30 px;
+    width: "30%";
+}
+
